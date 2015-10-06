@@ -1,5 +1,9 @@
 #Initial Requirements
 
+Users
+-----
+Highschool and Middleschool Administrators
+
 Inputs
 ------
 
