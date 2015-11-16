@@ -1,5 +1,5 @@
 #MVP
-----
+
 An administrator can create, view, edit, and remove a class from a student's schedule.
 
 #Initial Requirements
